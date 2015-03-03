@@ -1,0 +1,85 @@
+c:\users\marcos\documents\visual studio 2010\Projects\Bingo\Bingo\bin\Debug\Bingo.exe
+c:\users\marcos\documents\visual studio 2010\Projects\Bingo\Bingo\bin\Debug\Bingo.pdb
+c:\users\marcos\documents\visual studio 2010\Projects\Bingo\Bingo\obj\x86\Debug\Bingo.Properties.Resources.resources
+c:\users\marcos\documents\visual studio 2010\Projects\Bingo\Bingo\obj\x86\Debug\Bingo.csproj.GenerateResource.Cache
+c:\users\marcos\documents\visual studio 2010\Projects\Bingo\Bingo\obj\x86\Debug\Bingo.exe
+c:\users\marcos\documents\visual studio 2010\Projects\Bingo\Bingo\obj\x86\Debug\Bingo.pdb
+C:\Users\Marcos\Documents\Visual Studio 2010\Projects\Bingo\Bingo\obj\x86\Debug\Bingo.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Documents\Visual Studio 2010\Projects\Bingo\Bingo\obj\x86\Debug\Bingo.FormPrincipalBingo.resources
+C:\Users\Marcos\Documents\Visual Studio 2010\Projects\Bingo\Bingo\obj\x86\Debug\Bingo.FormGenerarCartones.resources
+C:\Users\Marcos\Documents\Visual Studio 2010\Projects\Bingo\Bingo\obj\x86\Debug\Bingo.FormImprimirVarios.resources
+C:\Users\Marcos\Documents\Visual Studio 2010\Projects\Bingo\Bingo\obj\x86\Debug\Bingo.FormImprimirUno.resources
+C:\Users\Marcos\Documents\Visual Studio 2010\Projects\Bingo\Bingo\obj\x86\Debug\Bingo.FormSplashScreen.resources
+C:\Users\RMT\Documents\Visual Studio 2010\Projects\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.exe
+C:\Users\RMT\Documents\Visual Studio 2010\Projects\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.pdb
+C:\Users\RMT\Documents\Visual Studio 2010\Projects\Bingo-Bueno\Bingo\bin\Debug\Bingo.exe
+C:\Users\RMT\Documents\Visual Studio 2010\Projects\Bingo-Bueno\Bingo\bin\Debug\Bingo.pdb
+C:\Users\RMT\Documents\Visual Studio 2010\Projects\Bingo-Bueno\Bingo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RMT\Documents\Visual Studio 2010\Projects\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.FormGenerarCartones.resources
+C:\Users\RMT\Documents\Visual Studio 2010\Projects\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.FormImprimirUno.resources
+C:\Users\RMT\Documents\Visual Studio 2010\Projects\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.FormImprimirVarios.resources
+C:\Users\RMT\Documents\Visual Studio 2010\Projects\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.FormPrincipalBingo.resources
+C:\Users\RMT\Documents\Visual Studio 2010\Projects\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.FormSplashScreen.resources
+C:\Users\RMT\Documents\Visual Studio 2010\Projects\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.Properties.Resources.resources
+C:\Users\RMT\Documents\Visual Studio 2010\Projects\Bingo-Bueno\Bingo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\RMT\Documents\Visual Studio 2010\Projects\Bingo-Bueno\Bingo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marcos\Desktop\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.exe
+C:\Users\Marcos\Desktop\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.pdb
+C:\Users\Marcos\Desktop\Bingo-Bueno\Bingo\bin\Debug\Bingo.exe
+C:\Users\Marcos\Desktop\Bingo-Bueno\Bingo\bin\Debug\Bingo.pdb
+C:\Users\Marcos\Desktop\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.FormGenerarCartones.resources
+C:\Users\Marcos\Desktop\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.FormImprimirUno.resources
+C:\Users\Marcos\Desktop\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.FormImprimirVarios.resources
+C:\Users\Marcos\Desktop\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.FormPrincipalBingo.resources
+C:\Users\Marcos\Desktop\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.FormSplashScreen.resources
+C:\Users\Marcos\Desktop\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Bingo-Bueno\Bingo\obj\x86\Debug\Bingo.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Bingo\Bingo\obj\x86\Debug\Bingo.exe
+C:\Users\Marcos\Desktop\Bingo\Bingo\obj\x86\Debug\Bingo.pdb
+C:\Users\Marcos\Desktop\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\Marcos\Desktop\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\Marcos\Desktop\Bingo\Bingo\obj\x86\Debug\Bingo.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Bingo\Bingo\obj\x86\Debug\Bingo.FormGenerarCartones.resources
+C:\Users\Marcos\Desktop\Bingo\Bingo\obj\x86\Debug\Bingo.FormImprimirUno.resources
+C:\Users\Marcos\Desktop\Bingo\Bingo\obj\x86\Debug\Bingo.FormImprimirVarios.resources
+C:\Users\Marcos\Desktop\Bingo\Bingo\obj\x86\Debug\Bingo.FormPrincipalBingo.resources
+C:\Users\Marcos\Desktop\Bingo\Bingo\obj\x86\Debug\Bingo.FormSplashScreen.resources
+C:\Users\Marcos\Desktop\Bingo\Bingo\obj\x86\Debug\Bingo.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Bingo\Bingo\obj\x86\Debug\Bingo.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\Escritorio\Bingo\Bingo\obj\x86\Debug\Bingo.exe
+C:\Users\Marcos\Desktop\Escritorio\Bingo\Bingo\obj\x86\Debug\Bingo.pdb
+C:\Users\Marcos\Desktop\Escritorio\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\Marcos\Desktop\Escritorio\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\Marcos\Desktop\Escritorio\Bingo\Bingo\obj\x86\Debug\Bingo.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Escritorio\Bingo\Bingo\obj\x86\Debug\Bingo.FormGenerarCartones.resources
+C:\Users\Marcos\Desktop\Escritorio\Bingo\Bingo\obj\x86\Debug\Bingo.FormImprimirUno.resources
+C:\Users\Marcos\Desktop\Escritorio\Bingo\Bingo\obj\x86\Debug\Bingo.FormImprimirVarios.resources
+C:\Users\Marcos\Desktop\Escritorio\Bingo\Bingo\obj\x86\Debug\Bingo.FormPrincipalBingo.resources
+C:\Users\Marcos\Desktop\Escritorio\Bingo\Bingo\obj\x86\Debug\Bingo.FormSplashScreen.resources
+C:\Users\Marcos\Desktop\Escritorio\Bingo\Bingo\obj\x86\Debug\Bingo.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Escritorio\Bingo\Bingo\obj\x86\Debug\Bingo.csproj.GenerateResource.Cache
+F:\Bingo\Bingo\obj\x86\Debug\Bingo.exe
+F:\Bingo\Bingo\obj\x86\Debug\Bingo.pdb
+F:\Bingo\Bingo\obj\x86\Debug\Bingo.csprojResolveAssemblyReference.cache
+F:\Bingo\Bingo\obj\x86\Debug\Bingo.FormGenerarCartones.resources
+F:\Bingo\Bingo\obj\x86\Debug\Bingo.FormImprimirUno.resources
+F:\Bingo\Bingo\obj\x86\Debug\Bingo.FormImprimirVarios.resources
+F:\Bingo\Bingo\obj\x86\Debug\Bingo.FormPrincipalBingo.resources
+F:\Bingo\Bingo\obj\x86\Debug\Bingo.FormSplashScreen.resources
+F:\Bingo\Bingo\obj\x86\Debug\Bingo.Properties.Resources.resources
+F:\Bingo\Bingo\obj\x86\Debug\Bingo.csproj.GenerateResource.Cache
+F:\Bingo\Bingo\bin\Debug\Bingo.exe
+F:\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\marcos\Desktop\Nueva carpeta\Software BINGO\Bingo\obj\x86\Debug\Bingo.exe
+C:\Users\marcos\Desktop\Nueva carpeta\Software BINGO\Bingo\obj\x86\Debug\Bingo.pdb
+C:\Users\marcos\Desktop\Nueva carpeta\Software BINGO\Bingo\bin\Debug\Bingo.exe
+C:\Users\marcos\Desktop\Nueva carpeta\Software BINGO\Bingo\bin\Debug\Bingo.pdb
+C:\Users\marcos\Desktop\Nueva carpeta\Software BINGO\Bingo\obj\x86\Debug\Bingo.csprojResolveAssemblyReference.cache
+C:\Users\marcos\Desktop\Nueva carpeta\Software BINGO\Bingo\obj\x86\Debug\Bingo.FormGenerarCartones.resources
+C:\Users\marcos\Desktop\Nueva carpeta\Software BINGO\Bingo\obj\x86\Debug\Bingo.FormImprimirUno.resources
+C:\Users\marcos\Desktop\Nueva carpeta\Software BINGO\Bingo\obj\x86\Debug\Bingo.FormImprimirVarios.resources
+C:\Users\marcos\Desktop\Nueva carpeta\Software BINGO\Bingo\obj\x86\Debug\Bingo.FormPrincipalBingo.resources
+C:\Users\marcos\Desktop\Nueva carpeta\Software BINGO\Bingo\obj\x86\Debug\Bingo.FormSplashScreen.resources
+C:\Users\marcos\Desktop\Nueva carpeta\Software BINGO\Bingo\obj\x86\Debug\Bingo.Properties.Resources.resources
+C:\Users\marcos\Desktop\Nueva carpeta\Software BINGO\Bingo\obj\x86\Debug\Bingo.csproj.GenerateResource.Cache
