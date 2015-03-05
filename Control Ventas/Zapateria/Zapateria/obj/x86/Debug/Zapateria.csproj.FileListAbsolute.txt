@@ -1,0 +1,233 @@
+c:\users\johani\documents\visual studio 2010\Projects\Zapateria\Zapateria\bin\Debug\Zapateria.exe
+c:\users\johani\documents\visual studio 2010\Projects\Zapateria\Zapateria\bin\Debug\Zapateria.pdb
+c:\users\johani\documents\visual studio 2010\Projects\Zapateria\Zapateria\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\johani\documents\visual studio 2010\Projects\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormPrincipal.resources
+c:\users\johani\documents\visual studio 2010\Projects\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Properties.Resources.resources
+c:\users\johani\documents\visual studio 2010\Projects\Zapateria\Zapateria\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\johani\documents\visual studio 2010\Projects\Zapateria\Zapateria\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\johani\documents\visual studio 2010\Projects\Zapateria\Zapateria\obj\x86\Debug\Zapateria.exe
+c:\users\johani\documents\visual studio 2010\Projects\Zapateria\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\Zapateria\Zapateria\bin\Debug\Clases.dll
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\Zapateria\Zapateria\bin\Debug\Clases.pdb
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistrarTipo.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistroZapato.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormListarZapato.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormBuscarZapato.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormEditarZapato.resources
+E:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.exe
+E:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.pdb
+E:\Zapateria\Zapateria\bin\Debug\Zapateria.exe
+E:\Zapateria\Zapateria\bin\Debug\Zapateria.pdb
+E:\Zapateria\Zapateria\bin\Debug\Clases.dll
+E:\Zapateria\Zapateria\bin\Debug\Clases.pdb
+E:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.csprojResolveAssemblyReference.cache
+E:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormBuscarZapato.resources
+E:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormEditarZapato.resources
+E:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormListarZapato.resources
+E:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistrarTipo.resources
+E:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistroZapato.resources
+E:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormPrincipal.resources
+E:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Properties.Resources.resources
+E:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Zapateria\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Administrador\Desktop\Zapateria\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Administrador\Desktop\Zapateria\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Administrador\Desktop\Zapateria\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Administrador\Desktop\Zapateria\Zapateria\bin\Debug\Clases.dll
+C:\Users\Administrador\Desktop\Zapateria\Zapateria\bin\Debug\Clases.pdb
+C:\Users\Administrador\Desktop\Zapateria\Zapateria\obj\x86\Debug\Zapateria.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormBuscarZapato.resources
+C:\Users\Administrador\Desktop\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormEditarZapato.resources
+C:\Users\Administrador\Desktop\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormListarZapato.resources
+C:\Users\Administrador\Desktop\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistrarTipo.resources
+C:\Users\Administrador\Desktop\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistroZapato.resources
+C:\Users\Administrador\Desktop\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormPrincipal.resources
+C:\Users\Administrador\Desktop\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Zapateria\Zapateria\obj\x86\Debug\Zapateria.csproj.GenerateResource.Cache
+I:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.exe
+I:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.pdb
+I:\Zapateria\Zapateria\bin\Debug\Zapateria.exe
+I:\Zapateria\Zapateria\bin\Debug\Zapateria.pdb
+I:\Zapateria\Zapateria\bin\Debug\Clases.dll
+I:\Zapateria\Zapateria\bin\Debug\Clases.pdb
+I:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.csprojResolveAssemblyReference.cache
+I:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroCliente.resources
+I:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormBuscarZapato.resources
+I:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormEditarZapato.resources
+I:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormListarZapato.resources
+I:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistrarTipo.resources
+I:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistroZapato.resources
+I:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormPrincipal.resources
+I:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Properties.Resources.resources
+I:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.csproj.GenerateResource.Cache
+I:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroTipoCliente.resources
+I:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormListarClientes.resources
+I:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormBuscarCliente.resources
+I:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormEdicionCliente.resources
+E:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormBuscarCliente.resources
+E:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormEdicionCliente.resources
+E:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormListarClientes.resources
+E:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroCliente.resources
+E:\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroTipoCliente.resources
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\Zapateria\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Administrador\Desktop\Nueva carpeta (2)\Zapateria\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\bin\Debug\Clases.dll
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\bin\Debug\Clases.pdb
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormBuscarCliente.resources
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormEdicionCliente.resources
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormListarClientes.resources
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroCliente.resources
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroTipoCliente.resources
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormBuscarZapato.resources
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormEditarZapato.resources
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormListarZapato.resources
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistrarTipo.resources
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistroZapato.resources
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormPrincipal.resources
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Properties.Resources.resources
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Formularios_Venta.FormListadoVentas.resources
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.exe
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.pdb
+H:\zapateria\Zapateria\Zapateria\bin\Debug\Zapateria.exe
+H:\zapateria\Zapateria\Zapateria\bin\Debug\Zapateria.pdb
+H:\zapateria\Zapateria\Zapateria\bin\Debug\Clases.dll
+H:\zapateria\Zapateria\Zapateria\bin\Debug\MySql.Data.dll
+H:\zapateria\Zapateria\Zapateria\bin\Debug\Clases.pdb
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.csprojResolveAssemblyReference.cache
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormBuscarCliente.resources
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormEdicionCliente.resources
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormListarClientes.resources
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroCliente.resources
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroTipoCliente.resources
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Formularios_Venta.FormListadoVentas.resources
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormBuscarZapato.resources
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormEditarZapato.resources
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormListarZapato.resources
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistrarTipo.resources
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistroZapato.resources
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormPrincipal.resources
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Properties.Resources.resources
+H:\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\bin\Debug\Clases.dll
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\bin\Debug\Clases.pdb
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormBuscarCliente.resources
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormEdicionCliente.resources
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormListarClientes.resources
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroCliente.resources
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroTipoCliente.resources
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Formularios_Venta.FormListadoVentas.resources
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormBuscarZapato.resources
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormEditarZapato.resources
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormListarZapato.resources
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistrarTipo.resources
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistroZapato.resources
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormPrincipal.resources
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Properties.Resources.resources
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.csproj.GenerateResource.Cache
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Formularios_Venta.FormResumenVentaMensual.resources
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\bin\Debug\Clases.dll
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\bin\Debug\MySql.Data.dll
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\bin\Debug\Clases.pdb
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormBuscarCliente.resources
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormEdicionCliente.resources
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormListarClientes.resources
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroCliente.resources
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroTipoCliente.resources
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Formularios_Venta.FormListadoVentas.resources
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Formularios_Venta.FormResumenVentaMensual.resources
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormBuscarZapato.resources
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormEditarZapato.resources
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormListarZapato.resources
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistrarTipo.resources
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistroZapato.resources
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormPrincipal.resources
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Zapateria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\bin\Debug\Clases.dll
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\bin\Debug\MySql.Data.dll
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\bin\Debug\Clases.pdb
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormBuscarCliente.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormEdicionCliente.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormListarClientes.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroCliente.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroTipoCliente.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Formularios_Venta.FormListadoVentas.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Formularios_Venta.FormResumenVentaMensual.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormBuscarZapato.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormEditarZapato.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormListarZapato.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistrarTipo.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistroZapato.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormPrincipal.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Properties.Resources.resources
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\bin\Debug\Clases.dll
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\bin\Debug\MySql.Data.dll
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\bin\Debug\Clases.pdb
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormBuscarCliente.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormEdicionCliente.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormListarClientes.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroCliente.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroTipoCliente.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Formularios_Venta.FormListadoVentas.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Formularios_Venta.FormResumenVentaMensual.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormBuscarZapato.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormEditarZapato.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormListarZapato.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistrarTipo.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistroZapato.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormPrincipal.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Properties.Resources.resources
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gonzalo\Documents\Visual Studio 2010\Projects\zapateria\Zapateria\Zapateria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.exe
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.pdb
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\bin\Debug\Clases.dll
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\bin\Debug\MySql.Data.dll
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\bin\Debug\Clases.pdb
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.csprojResolveAssemblyReference.cache
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormBuscarCliente.resources
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormEdicionCliente.resources
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormListarClientes.resources
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroCliente.resources
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormulariosCliente.FormRegistroTipoCliente.resources
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Formularios_Venta.FormListadoVentas.resources
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Formularios_Venta.FormResumenVentaMensual.resources
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormBuscarZapato.resources
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormEditarZapato.resources
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormListarZapato.resources
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistrarTipo.resources
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormRegistroZapato.resources
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.FormPrincipal.resources
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.Properties.Resources.resources
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Zapateria\obj\x86\Debug\Zapateria.csproj.GenerateResource.Cache

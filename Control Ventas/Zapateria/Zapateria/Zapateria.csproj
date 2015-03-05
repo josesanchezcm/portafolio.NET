@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7E68159D-FA71-4708-AE1E-E415F9B86760}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Zapateria</RootNamespace>
+    <AssemblyName>Zapateria</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.3.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Formularios Cliente\FormBuscarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios Cliente\FormBuscarCliente.Designer.cs">
+      <DependentUpon>FormBuscarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios Cliente\FormEdicionCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios Cliente\FormEdicionCliente.Designer.cs">
+      <DependentUpon>FormEdicionCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios Cliente\FormListarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios Cliente\FormListarClientes.Designer.cs">
+      <DependentUpon>FormListarClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios Cliente\FormRegistroTipoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios Cliente\FormRegistroTipoCliente.Designer.cs">
+      <DependentUpon>FormRegistroTipoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios Venta\FormListadoVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios Venta\FormListadoVentas.Designer.cs">
+      <DependentUpon>FormListadoVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios Venta\FormResumenVentaMensual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios Venta\FormResumenVentaMensual.Designer.cs">
+      <DependentUpon>FormResumenVentaMensual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios Zapto\FormBuscarZapato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios Zapto\FormBuscarZapato.Designer.cs">
+      <DependentUpon>FormBuscarZapato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios Zapto\FormEditarZapato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios Zapto\FormEditarZapato.Designer.cs">
+      <DependentUpon>FormEditarZapato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios Zapto\FormListarZapato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios Zapto\FormListarZapato.Designer.cs">
+      <DependentUpon>FormListarZapato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios Zapto\FormRegistrarTipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios Zapto\FormRegistrarTipo.Designer.cs">
+      <DependentUpon>FormRegistrarTipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios Zapto\FormRegistroZapato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios Zapto\FormRegistroZapato.Designer.cs">
+      <DependentUpon>FormRegistroZapato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipalZapateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipalZapateria.Designer.cs">
+      <DependentUpon>FormPrincipalZapateria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios Cliente\FormRegistroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios Cliente\FormRegistroCliente.Designer.cs">
+      <DependentUpon>FormRegistroCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formularios Cliente\FormBuscarCliente.resx">
+      <DependentUpon>FormBuscarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios Cliente\FormEdicionCliente.resx">
+      <DependentUpon>FormEdicionCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios Cliente\FormListarClientes.resx">
+      <DependentUpon>FormListarClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios Cliente\FormRegistroCliente.resx">
+      <DependentUpon>FormRegistroCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios Cliente\FormRegistroTipoCliente.resx">
+      <DependentUpon>FormRegistroTipoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios Venta\FormListadoVentas.resx">
+      <DependentUpon>FormListadoVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios Venta\FormResumenVentaMensual.resx">
+      <DependentUpon>FormResumenVentaMensual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios Zapto\FormBuscarZapato.resx">
+      <DependentUpon>FormBuscarZapato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios Zapto\FormEditarZapato.resx">
+      <DependentUpon>FormEditarZapato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios Zapto\FormListarZapato.resx">
+      <DependentUpon>FormListarZapato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios Zapto\FormRegistrarTipo.resx">
+      <DependentUpon>FormRegistrarTipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios Zapto\FormRegistroZapato.resx">
+      <DependentUpon>FormRegistroZapato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipalZapateria.resx">
+      <DependentUpon>FormPrincipalZapateria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Clases\Clases.csproj">
+      <Project>{5518BF60-5A51-4FF7-8498-CEBCA4123D7F}</Project>
+      <Name>Clases</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagen2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zapateria-1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zapatos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zapateria.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

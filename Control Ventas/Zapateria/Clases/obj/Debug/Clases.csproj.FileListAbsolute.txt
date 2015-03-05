@@ -1,0 +1,42 @@
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\Zapateria\Clases\bin\Debug\Clases.dll
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\Zapateria\Clases\bin\Debug\Clases.pdb
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\Zapateria\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\Zapateria\Clases\obj\Debug\Clases.dll
+C:\Users\Johani\Documents\Visual Studio 2010\Projects\Zapateria\Clases\obj\Debug\Clases.pdb
+E:\Zapateria\Clases\bin\Debug\Clases.dll
+E:\Zapateria\Clases\bin\Debug\Clases.pdb
+E:\Zapateria\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+E:\Zapateria\Clases\obj\Debug\Clases.dll
+E:\Zapateria\Clases\obj\Debug\Clases.pdb
+C:\Users\Administrador\Desktop\Zapateria\Clases\bin\Debug\Clases.dll
+C:\Users\Administrador\Desktop\Zapateria\Clases\bin\Debug\Clases.pdb
+C:\Users\Administrador\Desktop\Zapateria\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Zapateria\Clases\obj\Debug\Clases.dll
+C:\Users\Administrador\Desktop\Zapateria\Clases\obj\Debug\Clases.pdb
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Clases\bin\Debug\Clases.dll
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Clases\bin\Debug\Clases.pdb
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Clases\obj\Debug\Clases.dll
+C:\Users\Administrador\Desktop\zapateria\Zapateria\Clases\obj\Debug\Clases.pdb
+H:\zapateria\Zapateria\Clases\bin\Debug\Clases.dll
+H:\zapateria\Zapateria\Clases\bin\Debug\Clases.pdb
+H:\zapateria\Zapateria\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+H:\zapateria\Zapateria\Clases\obj\Debug\Clases.dll
+H:\zapateria\Zapateria\Clases\obj\Debug\Clases.pdb
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Clases\bin\Debug\Clases.dll
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Clases\bin\Debug\Clases.pdb
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Clases\obj\Debug\Clases.dll
+C:\Users\Marcos\Desktop\zapateria\Zapateria\Clases\obj\Debug\Clases.pdb
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Clases\bin\Debug\Clases.dll
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Clases\bin\Debug\Clases.pdb
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Clases\bin\Debug\MySql.Data.dll
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Clases\obj\Debug\Clases.dll
+C:\Users\Gonzalo\Desktop\zapateria nuevo\progra III\zapateria (1)\zapateria\Zapateria\Clases\obj\Debug\Clases.pdb
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Clases\bin\Debug\Clases.dll
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Clases\bin\Debug\Clases.pdb
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Clases\bin\Debug\MySql.Data.dll
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Clases\obj\Debug\Clases.dll
+C:\Users\marcos\Desktop\zapateria-meejoor\zapateria meejoor\zapateria\zapateria\Zapateria\Clases\obj\Debug\Clases.pdb
